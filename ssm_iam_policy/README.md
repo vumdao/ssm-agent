@@ -57,7 +57,7 @@
 # Access the EC2
 $ aws ssm start-session --target i-011ce869cbf141225 --region ap-northeast-1
 
-Starting session with SessionId: jack.dao-01fe8e68e8f5c70f5
+Starting session with SessionId: dev-01fe8e68e8f5c70f5
 $ sudo su
 root@ec2-instance:/var/snap/amazon-ssm-agent/3553# 
 
