@@ -127,3 +127,22 @@ An error occurred (AccessDeniedException) when calling the StartSession operatio
 ## 🚀 Conclusion <a name="Conclusion"></a>
 - We use SSM to provide access EC2 instnance or send commands without key pem, so please be careful with setup IAM permission to ensure security.
 - More about SSM agent, [AWS SSM Agent - Connection Error](https://dev.to/awscommunity-asean/aws-ssm-agent-connection-error-3kn9)
+
+---
+
+
+<h3 align="center">
+  <a href="https://dev.to/vumdao">:stars: Blog</a>
+  <span> · </span>
+  <a href="https://github.com/vumdao/ssm-agent/tree/master/ssm_iam_policy">Github</a>
+  <span> · </span>
+  <a href="https://stackoverflow.com/users/11430272/vumdao">stackoverflow</a>
+  <span> · </span>
+  <a href="https://www.linkedin.com/in/vu-dao-9280ab43/">Linkedin</a>
+  <span> · </span>
+  <a href="https://www.linkedin.com/groups/12488649/">Group</a>
+  <span> · </span>
+  <a href="https://www.facebook.com/CloudOpz-104917804863956">Page</a>
+  <span> · </span>
+  <a href="https://twitter.com/VuDao81124667">Twitter :stars:</a>
+</h3>
